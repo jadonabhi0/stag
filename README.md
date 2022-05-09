@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jadonabhi0 
-jadonabhi0
-/
-Mini-Project-1-STAG
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Mini-Project-1-STAG/README.md
-@jadonabhi0
-jadonabhi0 Create README.md
-Latest commit 4304ee8 on Nov 23, 2021
- History
- 1 contributor
-53 lines (43 sloc)  3.06 KB
-   
-stag
+   stag
 ------ INTRODUCTION-------
 
 STAG is an android application that offers a wide variety of functionalities like video calling, audio calling etc. Basically, It’s a doubt-solving platform makes interaction easier between teachers and students. You can interact for doubt solving-purpose, whenever you want without a single commercial all for free. You just have to visit the app and put your doubts in front with an easier interaction. The purpose to make this project is to provide a platform where any one can virtually interacted with the respective faculty and solve their doubts.Here simple, reliable messaging functionalities will get implemented so that user can easily send messages regarding their doubts. STAG uses your phone’s internet connection to send messages to avoid sms fees . With voice call, you can conversate your respective mentor in context of problem solving, so there is no worry about expensive calling charges STAG allows you to send and receive documents too. While photos and videos are allowed for sure, PDF, Excel and Word files can also be sent. Simply attach the document to your chat and share your documents. Sending emojis will also there you will see some more come up on the
